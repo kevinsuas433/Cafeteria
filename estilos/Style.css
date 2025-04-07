@@ -17,4 +17,6 @@ body{
 {
     width: 90%;
     background-color: antiquewhite;
+    margin: auto;
+    overflow: hidden;
 }
