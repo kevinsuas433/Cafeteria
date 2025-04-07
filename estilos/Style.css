@@ -9,4 +9,12 @@
 }
 body{
     font-family: "Open Sans", Arial, San-serif;
-};
+    font-size: 16px;
+}
+
+/* Le damos estilo a la clase contenedor */
+.contenedor
+{
+    width: 90%;
+    background-color: antiquewhite;
+}
